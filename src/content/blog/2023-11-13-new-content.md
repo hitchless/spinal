@@ -1,6 +1,6 @@
 ---
 title: give this a title
-description: ''
+description: is this not the body? apparently not
 date: 2023-11-13T23:29
 image: ''
 categories:
