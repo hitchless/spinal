@@ -12,4 +12,4 @@ tags:
 
 adsf asdfasfads
 
-![image.png](../images/blog/image.png)
+![image-c8b9e2.png](../../images/blog/image-c8b9e2.png)
