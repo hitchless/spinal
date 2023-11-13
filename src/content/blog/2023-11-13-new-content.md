@@ -11,3 +11,5 @@ tags:
 ---
 
 adsf asdfasfads
+
+![image.png](../images/blog/image.png)
