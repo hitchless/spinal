@@ -1,7 +1,7 @@
 ---
 title: How to build an Garden with modern Technology
 description: this is meta description
-date: 2022-05-04T05:00
+date: 2022-05-04T05:00:00Z
 image: ''
 categories:
 - Software
