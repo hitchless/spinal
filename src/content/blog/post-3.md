@@ -1,5 +1,6 @@
 ---
 title: How to build an Garden with modern Technology
+meta_title: ""
 description: this is meta description
 date: 2022-04-04 05:00:00 UTC
 image: "/images/image-placeholder.png"
